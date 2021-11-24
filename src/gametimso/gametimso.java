@@ -13,7 +13,7 @@ public class gametimso {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void start() {
         // TODO code application logic here
         frmMain frame = new frmMain();
         frame.show();
